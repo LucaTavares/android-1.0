@@ -84,6 +84,7 @@ h2{
     margin-top: 5px;
     color: green;
     font-family: idroid;
+    background-image: linear-gradient(to right,#3ddc84,transparent);
 }
 h3{
     color: green;
